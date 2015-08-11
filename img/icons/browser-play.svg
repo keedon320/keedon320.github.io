@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="122px" height="92px" viewBox="0 0 122 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>Imported Layers</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Imported-Layers" sketch:type="MSLayerGroup" transform="translate(1.000000, 1.000000)">
+            <path d="M0.351,0.398 L120.351,0.398 L120.351,90.398 L0.351,90.398 L0.351,0.398 Z M0.351,14.149 L120.351,14.149 L0.351,14.149 Z" id="Stroke-2" stroke="#A5B2B2" stroke-width="2" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M10.587,7.362 C10.587,8.636 9.566,9.67 8.306,9.67 C7.046,9.67 6.024,8.636 6.024,7.362 C6.024,6.087 7.046,5.054 8.306,5.054 C9.566,5.054 10.587,6.087 10.587,7.362" id="Fill-3" fill="#A5B2B2" sketch:type="MSShapeGroup"></path>
+            <path d="M18.579,7.362 C18.579,8.636 17.558,9.67 16.298,9.67 C15.038,9.67 14.016,8.636 14.016,7.362 C14.016,6.087 15.038,5.054 16.298,5.054 C17.558,5.054 18.579,6.087 18.579,7.362" id="Fill-4" fill="#A5B2B2" sketch:type="MSShapeGroup"></path>
+            <path d="M26.571,7.362 C26.571,8.636 25.55,9.67 24.29,9.67 C23.03,9.67 22.008,8.636 22.008,7.362 C22.008,6.087 23.03,5.054 24.29,5.054 C25.55,5.054 26.571,6.087 26.571,7.362" id="Fill-5" fill="#A5B2B2" sketch:type="MSShapeGroup"></path>
+        </g>
+        <path d="M85.01,53.004 C85.01,40.299 74.71,30 62.005,30 C49.3,30 39,40.299 39,53.004 C39,65.71 49.3,76.009 62.005,76.009 C74.71,76.009 85.01,65.71 85.01,53.004 L85.01,53.004 Z M54.053,41.513 L73.957,53.004 L54.053,64.496 L54.053,41.513 L54.053,41.513 Z" id="Stroke-5" stroke="#90C564" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+    </g>
+</svg>

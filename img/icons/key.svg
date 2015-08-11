@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="85px" height="85px" viewBox="0 0 85 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>Power</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Power" sketch:type="MSLayerGroup" transform="translate(1.000000, 1.000000)" stroke="#90C564" stroke-width="2">
+            <circle id="Oval-6" sketch:type="MSShapeGroup" cx="41.5" cy="41.5" r="41.5"></circle>
+        </g>
+        <path d="M61.8826135,22.2280777 C56.4199678,16.6248339 47.6161011,16.5787684 42.2185393,22.1619591 C38.5803555,25.8955316 37.4225221,31.2177476 38.7060254,36.0133797 L19,56.3185051 L19.0304765,63.2841325 C19.0365351,64.5426561 19.4847791,64.9729472 20.6948449,65 L28.8933115,64.9984866 L28.8942295,60.0488616 L33.6972232,60.0476319 L33.6981412,55.1654498 L38.3109318,55.1661119 L38.3095549,50.2143113 L44.588458,50.2143113 L48.5521533,46.1300927 C53.2005612,47.441303 58.35275,46.2482359 61.9791838,42.5236495 C67.3784897,36.9431074 67.3337847,27.8701034 61.8826135,22.2280777 L61.8826135,22.2280777 Z M57.1610145,32.3876178 C55.725312,33.8382541 53.386696,33.8233089 51.938601,32.3536598 C50.491883,30.8404993 50.4779299,28.4307176 51.9072065,26.9738383 C53.3465808,25.4768527 55.6837281,25.4906629 57.1276922,27.0073233 C58.5783575,28.4741346 58.5927696,30.8845784 57.1610145,32.3876178 L57.1610145,32.3876178 Z" id="Shape" stroke="#90C564" stroke-width="2" sketch:type="MSShapeGroup"></path>
+    </g>
+</svg>

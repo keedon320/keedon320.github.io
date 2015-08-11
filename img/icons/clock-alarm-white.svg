@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="85px" height="85px" viewBox="0 0 85 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>Power</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Power" sketch:type="MSLayerGroup" transform="translate(1.000000, 1.000000)" stroke="#FFFFFF" stroke-width="2">
+            <circle id="Oval-6" sketch:type="MSShapeGroup" cx="41.5" cy="41.5" r="41.5"></circle>
+        </g>
+        <g id="Imported-Layers" sketch:type="MSLayerGroup" transform="translate(18.000000, 20.000000)">
+            <path d="M-0.152,23.551 C-0.152,10.296 10.593,-0.449 23.848,-0.449 C37.103,-0.449 47.848,10.296 47.848,23.551 C47.848,36.806 37.103,47.551 23.848,47.551 C10.593,47.551 -0.152,36.806 -0.152,23.551 L-0.152,23.551 Z M23.848,5.104 C34.036,5.104 42.295,13.363 42.295,23.551 C42.295,33.739 34.036,41.998 23.848,41.998 C13.66,41.998 5.401,33.739 5.401,23.551 C5.401,13.363 13.66,5.104 23.848,5.104 Z M19.337,23.551 C19.337,21.059 21.357,19.039 23.848,19.039 C26.34,19.039 28.36,21.059 28.36,23.551 C28.36,26.042 26.34,28.062 23.848,28.062 C21.357,28.062 19.337,26.042 19.337,23.551 L19.337,23.551 Z" id="Stroke-1" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M22.309,23.551 C22.309,22.701 22.998,22.012 23.848,22.012 C24.698,22.012 25.387,22.701 25.387,23.551 C25.387,24.4 24.698,25.089 23.848,25.089 C22.998,25.089 22.309,24.4 22.309,23.551" id="Fill-2" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M27.038,20.361 L33.274,14.125 L27.038,20.361 Z M24.192,28.667 L24.192,38.207 L24.192,28.667 Z M23.848,8.894 L23.848,11.076 L23.848,8.894 Z M11.373,23.551 L9.192,23.551 L11.373,23.551 Z M38.505,23.551 L36.323,23.551 L38.505,23.551 Z M15.001,32.398 L13.485,33.914 L15.001,32.398 Z M34.212,13.187 L32.669,14.73 L34.212,13.187 Z M14.96,11.897 L16.284,13.633 L14.96,11.897 Z M31.413,33.469 L32.736,35.205 L31.413,33.469 Z" id="Stroke-3" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+        </g>
+        <g id="Group" sketch:type="MSLayerGroup" transform="translate(23.000000, 10.000000)" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round">
+            <g id="Imported-Layers-3" transform="translate(19.538110, 9.985881) rotate(-21.000000) translate(-19.538110, -9.985881) translate(7.538110, 3.985881)" sketch:type="MSShapeGroup" stroke-linejoin="round">
+                <path d="M0.09328125,-0.297138462 L7.132125,-0.297138462 L7.132125,3.16769231 L0.09328125,3.16769231 L0.09328125,-0.297138462 Z M19.0203125,4.3732 L23.9974375,9.27286154 L21.4091875,11.8212923 L16.4320625,6.92073846 L19.0203125,4.3732 L19.0203125,4.3732 Z" id="Stroke-3"></path>
+            </g>
+            <g id="Path-24-+-Path-25" transform="translate(21.625000, 0.000000)" sketch:type="MSShapeGroup">
+                <path d="M1.77204241,2.8564699 C1.77204241,2.8564699 9.64382499,2.12960828 13.2895595,7.68034992" id="Path-24"></path>
+                <path d="M0.260572161,0.444160416 C0.260572161,0.444160416 10.7816947,-1.27833525 16.3546012,7.18482028" id="Path-25"></path>
+            </g>
+            <g id="Path-24-+-Path-26" transform="translate(8.187500, 4.000000) scale(-1, 1) translate(-8.187500, -4.000000) translate(0.187500, 0.000000)" sketch:type="MSShapeGroup">
+                <path d="M1.77204241,2.8564699 C1.77204241,2.8564699 9.64382499,2.12960828 13.2895595,7.68034992" id="Path-24"></path>
+                <path d="M0.260572161,0.444160416 C0.260572161,0.444160416 10.7816947,-1.27833525 16.3546012,7.18482028" id="Path-25"></path>
+            </g>
+        </g>
+        <path d="M56.953125,63.8461538 L60.578125,66.5230769" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+        <path d="M27.953125,63.8461538 L24.328125,66.5230769" id="Line-2" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+    </g>
+</svg>
